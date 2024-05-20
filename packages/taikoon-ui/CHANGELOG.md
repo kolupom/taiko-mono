@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/taikoxyz/taiko-mono/compare/taikoon-ui-v1.0.0...taikoon-ui-v1.1.0) (2024-05-20)
+
+
+### Features
+
+* **taikoon:** ipfs integration with 4everland ([#17119](https://github.com/taikoxyz/taiko-mono/issues/17119)) ([46670cf](https://github.com/taikoxyz/taiko-mono/commit/46670cfb8f087c87c42799d7ded3a0dc1258a963))
+
 ## 1.0.0 (2024-05-15)
 
 
